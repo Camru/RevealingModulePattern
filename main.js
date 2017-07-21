@@ -1,4 +1,4 @@
-// All of your indvidual modules can be accessed here as objects with their
+// All of your individual modules can be accessed here as objects with their
 // functions being methods on those objects
 
 // Example using module1
